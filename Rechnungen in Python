@@ -1,0 +1,17 @@
+# Rechnungen mit Python
+print("5 + 9 = ",5 + 9)
+print("100 - 7 = ",100 - 7)
+print("4 - 10 = ",4 - 10)
+print("5 + 9 + 3 = ", 5 + 9 +3)
+print("4 + 3 - 2 - 1 + 6 = ", 4 + 3 - 2 - 1 + 6)
+print("5+9   +   3 =",5+9   +   3)
+print("6 * 7 = ",6 * 7)
+print("7 * 6 = ",7 * 6)
+print("6 * 7 * 2 * 3 = ",6 * 7 * 2 * 3)
+print("9 / 5 = ",9 / 5)
+print("9 // 5 = ",9 // 5)
+print("Mit Variablen")
+print("a = 95 ")
+a = 95
+print("a = ",a)
+print("a - 3 = ",a - 3)
